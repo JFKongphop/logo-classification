@@ -1,0 +1,6 @@
+numpy>=1.23.4
+opencv-python>=4.8.0.47
+tqdm>=4.66.1
+tensorflow>=2.10.0
+tensorflow-cpu
+keras>=2.12.1
